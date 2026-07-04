@@ -1,5 +1,5 @@
 # The Architecture of Immersion: Game Worlds and Player Psychology
-[NotebookLM - The Architecture of Immersion: Game Worlds and Player Psychology](https://notebooklm.google.com/notebook/0a5b4c19-22ad-48bd-9108-48777934ac94?authuser=1)
+[NotebookLM - The Architecture of Immersion: Game Worlds and Player Psychology](https://notebooklm.google.com/notebook/0a5b4c19-22ad-48bd-9108-48777934ac94/preview)
 
 O notebook criado é um guia abrangente sobre os fundamentos do Game Design, focado na intersecção entre a psicologia do jogador, sistemas de jogo e as inovações tecnológicas que moldam a indústria. O material explora desde definições clássicas do que constitui um "jogo" até a aplicação prática de documentos de design (GDD) e o impacto da Inteligência Artificial no desenvolvimento atual e futuro.
 ### Objetivos de Estudo:
